@@ -1,7 +1,6 @@
 # Name: Orayda Shagifa
-# CS1026A Assignment 2: Pizza Ordering System
-# Description: Program takes user's pizza order, calculates the price of each pizza, tax, and total, then prints receipt
-# Due Date: 10.26.2022
+# Description: Pizza Ordering System, Program takes user's pizza order, calculates the price of each pizza, tax, and total, then prints receipt
+#Date: 10.26.2022
 
 # function to print out the entire receipt
 def generateReceipt(pizzaOrder):
